@@ -14,7 +14,7 @@ A production-quality, modern, and accessible medicine reminder and caregiver sup
 - **Haptic Confirmations:** Provides distinct vibration feedbacks for alarms, selections, and emergency counts.
 
 ### 2. Daily Medicine Checklist
-- Lists today's morning, afternoon, and evening medication slots based on custom frequencies (Once, Twice, Thrice daily, Weekly, or Custom).
+- Lists today's morning, afternoon, and evening medication slots based on custom frequencies (Once, Twice, Thrice, daily, Weekly, or Custom).
 - Mark doses as **Taken**, **Skipped**, or **Snoozed** (snoozes alarm for 10 minutes).
 - Automatic inventory depletion tracking.
 - Motivational compliance streaks.
