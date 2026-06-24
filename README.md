@@ -1,10 +1,10 @@
-# MediCare Companion (MediCare Companion App)
+# MediCare Companion (Medicine Reminder App)
 
 A production-quality, modern, and accessible medicine reminder and caregiver support application designed specifically for senior citizens. Built using **React Native**, **Expo (SDK 56)**, **TypeScript**, and **React Native Paper (Material Design 3)**.
 
 ---
 
-## 🌟 Key Features
+## 🌟 Key Features:
 
 ### 1. Senior-First Accessibility Layout
 - **Dynamic Text Scaling:** Allows seniors to increase text sizes globally by up to 200%.
